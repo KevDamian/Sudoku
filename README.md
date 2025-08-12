@@ -8,11 +8,6 @@ Generates a random board every run.
 Validates number inputs from players according to Sudoku rules
 Allows users to pick a space to add their numbers
 
-How to run:
-Clone repository:
-- git clone "https://github.com/KevDamian/Sudoku"
-- cd Sudoku
-
 Future improvements:
 Ablility to change the amount of empty spaces for each board
 A timer to track the completion time
