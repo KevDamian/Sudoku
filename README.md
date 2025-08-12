@@ -10,7 +10,7 @@ Allows users to pick a space to add their numbers
 
 How to run:
 Clone repository:
-- git clone https://github.com/KevDamian/Sudoku
+- git clone "https://github.com/KevDamian/Sudoku"
 - cd Sudoku
 
 Future improvements:
